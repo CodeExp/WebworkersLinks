@@ -6,3 +6,21 @@ header, footer, main {
     margin: 0 auto;
     width: 70vw;
 }
+
+p {
+    margin: 0;
+}
+
+dl, h3 {
+    margin: 10px;
+    padding: 5px;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+dt {
+    padding: 0 10px;
+    background-color: rgba(51,153,255,0.3);
+}
